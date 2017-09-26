@@ -9,4 +9,5 @@ scanf("%d",&a);
 sum=sum+a;
 }
 printf("%d",sum);
+printf("manogna");
 }
